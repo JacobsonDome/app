@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          vue3
+          vue4
         </a>
       </header>
     </div>
