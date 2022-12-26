@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HAllo zusammen zur 8
+          It´s time to shine 9
         </a>
       </header>
     </div>
