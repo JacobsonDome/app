@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          7
+          HAllo zusammen zur 8
         </a>
       </header>
     </div>
